@@ -1,4 +1,4 @@
-# React Landing Page
+# Landing Page
 
 Responsive aur modern landing page for showcasing product/features
 
